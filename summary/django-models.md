@@ -47,7 +47,7 @@ class Album(models.Model):
 ### 필드의 형태
 
 * The column type - 데이터베이스가 가지고있는 데이터가 어떤 형태인지(**INTEGER, VARCHAR, TEXT**)
-* form 필드를 랜더링하는 기본 HTML형식 (**<input type="text">, <select>**)
+* form 필드를 랜더링하는 기본 HTML형식 (<input type="text">, <select>)
 * 최소한의 유효성 확인 - 장고에서 자동생성되는 form
 
 ### 필드 옵션
